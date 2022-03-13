@@ -1,0 +1,147 @@
+div {
+position: relative;
+padding-top: 100px;
+}
+body {
+background-color: #EAF6F6;
+margin: 0px;
+text-align: center;
+font-family: "Merriweather", serif;
+}
+h1 {
+font-size: 5.625rem;
+color: #66BFBF;
+margin: 50px auto auto 0;
+font-family: "Sacramento", cursive;
+}
+
+h2 {
+color: #66BFBF;
+font-size: 2.5rem;
+font-family: "Montserrat", serif;
+font-weight: normal;
+}
+h3 {
+font-family: "Montserrat", serif;
+color: #11999E;
+}
+a {
+color: #11999E;
+font-family: "Montserrat", serif;
+margin: 10px 20px;
+text-decoration: none;
+}
+
+hr{
+border: dotted #EAF6F6 6px;
+border-bottom: none;
+width: 4%;
+margin: 50px auto;
+}
+
+a:hover{
+color: #EAF6F6;
+}
+
+.skill-row {
+width: 50%;
+margin: 50px auto 100px auto;
+text-align: left;
+line-height: 200%;
+}
+
+.code-image {
+width: 20%;
+float: left;
+margin: 30px;
+}
+
+.media-image {
+width: 20%;
+float: left;
+margin: 30px;
+}
+
+.skills{
+padding: 30px;
+}
+
+#code-row{
+padding-top: 20px;
+}
+
+.bottom-container{
+background-color: #66BFBF;
+padding: 20px;
+}
+
+.middle-container{
+padding-top: 40px;
+}
+.top-container{
+background-color: #EAF6F6;
+}
+
+.contact-me{
+padding: 50px;
+font-family: "Montserrat", serif;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Montserrat", serif;;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.copyright{
+color: #EAF6F6;
+font-size: 0.75rem;
+padding: 20px 0px;
+}
+
+.email{
+color: #EAF6F6;
+font-size: 1.2rem;
+}
+
+.me{
+top: 200px;
+height: 200px;
+}
+
+p{
+font-family: "Montserrat", serif;
+font-size: 1.2rem;
+}
+
+.profile{
+padding: 0px;
+}
+
+.intro{
+font-size: 1.5rem;
+width: 50%;
+margin: auto;
+}
+
